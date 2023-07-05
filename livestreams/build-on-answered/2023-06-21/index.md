@@ -10,7 +10,7 @@ tags:
     - resilience
 authorGithubAlias: juliegund
 authorName: Julie Gunderson
-date: 2022-06-21
+date: 2023-06-21
 spaces:
   - livestreams
     
